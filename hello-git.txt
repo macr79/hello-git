@@ -13,3 +13,4 @@ log-demo_ line 1
 log-demo_ line 2
 stash-demo: uncommited change
 revert-demo: bad idea
+reset-demo: C1

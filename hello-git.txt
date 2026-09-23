@@ -16,3 +16,4 @@ revert-demo: bad idea
 reset-demo: C1
 reset-demo: C2
 reset-demo: C3
+reset-demo: C4

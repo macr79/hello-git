@@ -11,3 +11,4 @@ Nueva linea de laboratorio
 Feature brach update
 log-demo_ line 1
 log-demo_ line 2
+stash-demo: uncommited change
